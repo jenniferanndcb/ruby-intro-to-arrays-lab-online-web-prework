@@ -6,6 +6,6 @@ def array_with_two_elements
   Array.new(2)
 end
 
-def first_element (array)
-  return array(0)
+def first_element (arr)
+  return arr (0)
 end
