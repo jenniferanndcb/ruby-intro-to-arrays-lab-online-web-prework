@@ -6,5 +6,6 @@ def array_with_two_elements
   Array.new(2)
 end
 
-def first_element
-  puts 
+def first_element (array)
+  puts element(0)
+end
